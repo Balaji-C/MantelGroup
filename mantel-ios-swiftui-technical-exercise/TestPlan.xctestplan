@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "A835B028-694B-426C-968E-447F4298D235",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:TVMazeExplore.xcodeproj",
+        "identifier" : "DD7D59672C3D15F0006236D2",
+        "name" : "TVMazeExploreTests"
+      }
+    }
+  ],
+  "version" : 1
+}
